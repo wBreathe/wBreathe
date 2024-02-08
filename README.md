@@ -11,8 +11,7 @@
 - 🌱 I’m currently ...
    - trying to be a perspective instead of a human being
    - pursuing hobbies that endure
-   - finding a phd position
-- 📫 Any questions, please try to find a way to contact me ...
+
 
 <!---
 wBreathe/wBreathe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
